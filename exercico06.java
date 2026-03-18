@@ -1,7 +1,6 @@
 package org.example.classes;
 
 public class exercico06 {
-
     No cabeca;
 
     public int contar() {
