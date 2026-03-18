@@ -2,16 +2,13 @@ package fila;
 
 /**
  * Autores:
-
-  Lucio Aguiar de Souza, 
-  Felipe Estevão, 
-  Marco Túlio Costa, 
-  Gustavo Fernando
-
  * 
+ * Lucio Aguiar de Souza,
+ * Felipe Estevão,
+ * Marco Túlio Costa,
+ * Gustavo Fernando
  */
-
-public class MetodoExcluir {
+public class Exercicio4 {
 
     private No inicio;
 
