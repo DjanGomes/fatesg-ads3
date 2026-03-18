@@ -34,13 +34,4 @@ public class Exercicio11 {
         System.out.println("Lista invertida com sucesso!");
     }
 
-
-    public void imprimir() {
-        No aux = head;
-        while (aux != null) {
-            System.out.print(aux.getDado() + " -> ");
-            aux = aux.getProximo();
-        }
-        System.out.println("null");
-    }
 }
